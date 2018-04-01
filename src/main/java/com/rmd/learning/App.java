@@ -10,7 +10,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        Stream.of("Hello", " ", "World", "/n").forEach(System.out::print);
+        Stream.of("Hello", " ", "WorldZ", "/n").forEach(System.out::print);
 
         //System.out.println( "Hello World!" );
     }
